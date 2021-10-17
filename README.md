@@ -25,11 +25,11 @@ npm install @prkeshri/fs.remote
 ## Usage
 
 ```sh
-npx -p fs.remote -p <your favourite package> -c 'fs.remote <your package name and args>'
+npx -p @prkeshri/fs.remote -p <your favourite package> -c 'fs.remote <your package name and args>'
 ```
 
 ```js
-  require('fs.remote'); // Auto patched!
+  require('@prkeshri/fs.remote'); // Auto patched!
 ```
 ## Run tests
 
