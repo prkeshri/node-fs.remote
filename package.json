@@ -1,5 +1,5 @@
 {
-  "name": "fs.remote",
+  "name": "@prkeshri/fs.remote",
   "version": "1.0.0",
   "description": "Patch fs.readFile, fs.read to include remote urls!",
   "main": "index.js",

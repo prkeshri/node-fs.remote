@@ -19,7 +19,7 @@
 ## Install
 
 ```sh
-npm install fs.remote
+npm install @prkeshri/fs.remote
 ```
 
 ## Usage
