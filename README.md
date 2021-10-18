@@ -28,6 +28,8 @@ npm install @prkeshri/fs.remote
 npx -p @prkeshri/fs.remote -p <your favourite package> -c 'fs.remote <your package name and args>'
 ```
 
+Or, 
+
 ```js
   require('@prkeshri/fs.remote'); // Auto patched!
 ```

@@ -49,10 +49,6 @@ if (require.main !== module) {
     return;
 }
 
-process.argv=['','','cowsay', '-f',
-'https://raw.githubusercontent.com/ForbesLindesay/sync-request/master/.gitignore',
-'abcd'
-];
 let [node, me, req, ...argv] = process.argv;
 
 if(!req) {
